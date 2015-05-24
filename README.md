@@ -1,6 +1,6 @@
 # 15.071x - The Analytics Edge (Spring 2015)
 
-Kaggle competition organized by MIT for the students of theirs MOOC `15.071x The Analytics Edge` @ edX.
+Kaggle competition organized by MIT for the students of their MOOC `15.071x The Analytics Edge` @ edX.
 
 https://www.kaggle.com/c/15-071x-the-analytics-edge-competition-spring-2015/
 
